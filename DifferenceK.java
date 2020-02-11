@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//You are given with an array of integers and an integer K. Write a program to find and print all pairs which have difference K.
 public class Runner {
 
 	public static void main(String[] args) {
